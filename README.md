@@ -20,6 +20,11 @@
   </a>
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AkashVH5500/AkashVH5500/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
 <img src="https://komarev.com/ghpvc/?username=AkashVH5500&style=for-the-badge" />
 
 </div>
