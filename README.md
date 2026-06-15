@@ -1,17 +1,28 @@
 <div align="center">
 
-# 👋 Hi, I'm Akash V Hiremath
+<img src="./banner.png" alt="Akash V Hiremath Banner"/>
 
-### AI Enthusiast • Full Stack Developer • Computer Science Engineering Student
+# Akash V Hiremath
+
+### AI Enthusiast | Full Stack Developer | CSE Student
 
 <p>
-  <a href="mailto:akashvhiremath@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/akash-v-hiremath-b81996296/">💼 LinkedIn</a> •
-  <a href="https://github.com/AkashVH5500">💻 GitHub</a>
+  <a href="mailto:akashvhiremath@gmail.com">
+    <img src="https://img.shields.io/badge/Email-akashvhiremath@gmail.com-blue?style=for-the-badge&logo=gmail">
+  </a>
+
+  <a href="https://www.linkedin.com/in/akash-v-hiremath-b81996296/">
+    <img src="https://img.shields.io/badge/LinkedIn-Akash%20V%20Hiremath-blue?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="https://github.com/AkashVH5500">
+    <img src="https://img.shields.io/badge/GitHub-AkashVH5500-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=AkashVH5500&style=for-the-badge" />
 
+</div>
 ---
 
 # 🚀 About Me
