@@ -4,7 +4,7 @@
 
 # Akash V Hiremath
 
-### AI Enthusiast | Full Stack Developer | CSE Student
+### AI Enthusiast | Full Stack Developer | Computer Science Engineering Student
 
 <p>
   <a href="mailto:akashvhiremath@gmail.com">
@@ -20,31 +20,37 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=AkashVH5500&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=AkashVH5500&style=for-the-badge"/>
 
 </div>
+
 ---
 
 # 🚀 About Me
 
-🎓 Computer Science Engineering Student at **Vivekananda Institute of Technology, Bengaluru**
+🎓 Final Year **Computer Science Engineering** student at **Vivekananda Institute of Technology, Bengaluru**
 
-📊 Current CGPA: **8.5**
+📊 **CGPA:** **8.5**
 
-🤖 Passionate about:
+💡 Passionate about building intelligent software solutions using **Artificial Intelligence, Full Stack Development, and Cloud Technologies**.
+
+### 🤖 Interests
 
 * Artificial Intelligence
 * Generative AI
 * Agentic AI
+* Multi-Agent Systems
 * Full Stack Development
 * Software Engineering
+* Cybersecurity
 
-🌱 Currently Learning:
+### 🌱 Currently Learning
 
 * Deep Learning
-* Advanced MERN Stack
-* AI Agents
+* Large Language Models (LLMs)
 * System Design
+* Advanced MERN Stack
+* Cloud Computing
 
 ---
 
@@ -52,26 +58,39 @@
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
+* ☕ Java
+* 🐍 Python
+* 🌐 JavaScript
+* 💻 C
+* 🗄️ SQL
 
 ### Frontend
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
+* HTML5
+* CSS3
+* React.js
+* Bootstrap
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge)
+* Node.js
+* Express.js
+* FastAPI
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
+* MongoDB
+* MySQL
+* PostgreSQL
+
+### Tools
+
+* Git
+* GitHub
+* Docker
+* Postman
+* Android Studio
+* VS Code
 
 ---
 
@@ -81,122 +100,138 @@
 * Machine Learning
 * Generative AI
 * Agentic AI
+* Large Language Models (LLMs)
 * Natural Language Processing
 * Deep Learning
+* Retrieval-Augmented Generation (RAG)
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 AI Resume Builder
+## 🎓 College Assistant Chatbot
 
-AI-powered resume generation platform.
+AI-powered chatbot built using **FastAPI**, **Streamlit**, and **LLMs** for answering college-related queries.
 
-🔗 Coming Soon
-
----
-
-## 🎓 AI College Chatbot
-
-Student assistance chatbot using AI.
-
-🔗 Coming Soon
+🔗 https://github.com/AkashVH5500/College-Assistant-Chatbot
 
 ---
 
-## 🌐 Samatva Website
+## 🤖 AI Personal Learning Assistant
 
-Website developed for social initiatives and events.
+Multi-Agent AI learning platform developed using **Google ADK** and **Vertex AI** as part of the Google AI Agents Intensive Course.
 
-🔗 Coming Soon
+🔗 https://github.com/AkashVH5500/ai-learning-assistant
 
 ---
 
-## 📊 Student Management System
+## 🛡️ Malware Detection Platform
 
-Web application for managing student records.
+Distributed malware detection system using **FastAPI**, **Docker**, **RabbitMQ**, **PostgreSQL**, and Machine Learning.
 
-🔗 Coming Soon
+🚧 Currently Under Development
+
+---
+
+## 🔍 Hoen Scanner
+
+Python-based malware scanning microservice integrated with the Malware Detection Platform.
+
+🔗 https://github.com/AkashVH5500/hoen-scanner
+
+---
+
+## ✈️ FlightApp
+
+Android application developed using **Kotlin** and **Android Studio**.
+
+🔗 https://github.com/AkashVH5500/FlightApp
 
 ---
 
 ## 💼 Portfolio Website
 
-Personal portfolio showcasing projects and achievements.
+Responsive portfolio website showcasing projects, technical skills, and certifications.
 
-🔗 Coming Soon
+🚧 Under Development
 
 ---
 
 # 🏆 Certifications
 
-✅ AWS Cloud Foundations
+✅ Google AI Agents Intensive Course
 
-✅ Oracle Java Foundations
+✅ Kaggle AI Agents Capstone
 
-✅ NASSCOM GenAI 101
+✅ IBM AI Fundamentals
 
-✅ SAP Agentic Systems
+✅ IBM SkillsBuild Customer Engagement
 
-✅ Anthropic MCP Advanced Topics
+✅ HackerRank Python (Basic)
 
-✅ Deloitte Technology Job Simulation
+✅ HackerRank R (Basic)
 
-✅ Skyscanner Software Engineering Job Simulation
-
-✅ Data Science Certifications
+✅ Google Cybersecurity
 
 ---
 
 # 📈 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AkashVH5500\&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=AkashVH5500\&show_icons=true\&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashVH5500\&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashVH5500\&layout=compact\&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkashVH5500)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkashVH5500\&theme=tokyonight)
 
 ---
 
 # 📊 Contribution Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkashVH5500)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkashVH5500\&theme=github-dark)
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
 ---
 
 # 🎯 Current Focus
 
-### Learning
+### 📚 Learning
 
 * Deep Learning
-* Agentic AI
-* Cloud Technologies
+* Large Language Models (LLMs)
+* Agentic AI & Multi-Agent Systems
+* System Design
+* Cloud Computing
 
-### Building
+### 🚀 Building
 
-* AI Resume Builder
-* Full Stack Applications
+* Malware Detection Platform
+* Personal Portfolio Website
+* Full Stack Web Applications
+* AI-Powered Developer Tools
 
-### Exploring
+### 🔬 Exploring
 
-* LLMs
-* Multi-Agent Systems
-* AI Automation
+* Retrieval-Augmented Generation (RAG)
+* Google ADK & AI Agent Frameworks
+* Docker & Distributed Systems
+* Cloud-Native Development
+* AI for Cybersecurity
 
 ---
 
 # 🌐 Connect
 
-📧 [akashvhiremath@gmail.com](mailto:akashvhiremath@gmail.com)
+📧 **Email:** [akashvhiremath@gmail.com](mailto:akashvhiremath@gmail.com)
 
-💼 LinkedIn:
+💼 **LinkedIn:**
 https://www.linkedin.com/in/akash-v-hiremath-b81996296/
 
-💻 GitHub:
+💻 **GitHub:**
 https://github.com/AkashVH5500
 
 ---
