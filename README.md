@@ -1,243 +1,84 @@
 <div align="center">
 
-<img src="./banner.png" alt="Akash V Hiremath Banner"/>
+<img src="./banner.png" alt="Akash V Hiremath" width="100%" />
 
 # Akash V Hiremath
 
-### AI Enthusiast | Full Stack Developer | Computer Science Engineering Student
+### Software Engineering | Backend Systems | AI Applications
 
-<p>
-  <a href="mailto:akashvhiremath@gmail.com">
-    <img src="https://img.shields.io/badge/Email-akashvhiremath@gmail.com-blue?style=for-the-badge&logo=gmail">
-  </a>
+Bengaluru, India · Expected graduation: August 2027
 
-  <a href="https://www.linkedin.com/in/akash-v-hiremath-b81996296/">
-    <img src="https://img.shields.io/badge/LinkedIn-Akash%20V%20Hiremath-blue?style=for-the-badge&logo=linkedin">
-  </a>
-
-  <a href="https://github.com/AkashVH5500">
-    <img src="https://img.shields.io/badge/GitHub-AkashVH5500-black?style=for-the-badge&logo=github">
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=AkashVH5500&style=for-the-badge"/>
+[Email](mailto:akashvhiremath@gmail.com) · [LinkedIn](https://www.linkedin.com/in/akash-v-hiremath-b81996296/) · [GitHub](https://github.com/AkashVH5500)
 
 </div>
 
 ---
 
-# 🚀 About Me
+## About
 
-🎓 Final Year **Computer Science Engineering** student at **Vivekananda Institute of Technology, Bengaluru**
+I am a B.E. Computer Science and Engineering student at Vivekananda Institute of Technology, Bengaluru, affiliated with Visvesvaraya Technological University (VTU).
 
-📊 **CGPA:** **8.5**
+- **CGPA:** 7.84/10.00 through Semester VI
+- **Focus:** backend engineering, distributed systems, AI-enabled applications and applied machine learning
+- **Experience:** IT development internship and IBM SkillsBuild Data Analytics with AI internship
 
-💡 Passionate about building intelligent software solutions using **Artificial Intelligence, Full Stack Development, and Cloud Technologies**.
+I enjoy building software that connects APIs, data, services and practical workflows. My repositories include distributed application prototypes, deterministic data-processing tools, AI workflow experiments and applied analytics.
 
-### 🤖 Interests
+## Technical Toolkit
 
-* Artificial Intelligence
-* Generative AI
-* Agentic AI
-* Multi-Agent Systems
-* Full Stack Development
-* Software Engineering
-* Cybersecurity
+| Area | Technologies |
+| --- | --- |
+| Languages | Java, Python, JavaScript, Kotlin, C++, C, SQL |
+| Backend | FastAPI, Flask, Node.js, REST APIs |
+| Data and ML | Pandas, NumPy, scikit-learn, XGBoost, SHAP, Jupyter |
+| Databases and messaging | MySQL, PostgreSQL, Redis, RabbitMQ |
+| Tools and infrastructure | Git, GitHub, Docker, Maven, Google Cloud / Vertex AI |
 
-### 🌱 Currently Learning
+## Selected Projects
 
-* Deep Learning
-* Large Language Models (LLMs)
-* System Design
-* Advanced MERN Stack
-* Cloud Computing
+### 1. Distributed Malware Detection Platform
+[Repository](https://github.com/AkashVH5500/malware-detection-platform)
 
----
+A distributed file-analysis prototype with seven backend services, a React dashboard, RabbitMQ messaging, PostgreSQL, Redis and Docker Compose. It demonstrates static metadata analysis, feature aggregation, ML inference and concurrent workers. The dynamic-analysis stage is simulated; this project does not execute untrusted files in a real sandbox. The included training script can generate synthetic data, so its metrics are not evidence of real-world malware-detection performance.
 
-# 💻 Tech Stack
+### 2. Ghost Data Audit Agent
+[Repository](https://github.com/AkashVH5500/ghost-data-audit-agent)
 
-### Languages
+A deterministic Python workflow that reconstructs data-deletion state from structured evidence such as logs, SQL snapshots, ledgers and metadata. It produces findings, remediation actions and verification steps. The final runtime uses no language model; the repository documents evaluation results and known limitations.
 
-* ☕ Java
-* 🐍 Python
-* 🌐 JavaScript
-* 💻 C
-* 🗄️ SQL
+### 3. U.S. Data Science Job Market & Skills Analytics
+[Repository](https://github.com/AkashVH5500/global-job-market-skills-analytics)
 
-### Frontend
+An analytics project completed during the IBM SkillsBuild Data Analytics with AI internship. It analyses 742 raw Glassdoor postings and 467 cleaned U.S. data-science postings from 2020 using data cleaning, exploratory analysis, statistical testing, visualisation and a salary-prediction experiment. Results are scoped to that historical U.S.-only dataset.
 
-* HTML5
-* CSS3
-* React.js
-* Bootstrap
+### 4. AI Personal Learning Assistant
+[Repository](https://github.com/AkashVH5500/ai-learning-assistant)
 
-### Backend
+A capstone prototype exploring a planner, PDF retrieval, summarisation, quiz generation and optional Google Cloud Storage-backed memory. The current repository documents which components are rule-based, extractive or placeholders; it should not be mistaken for a fully LLM-driven production tutor.
 
-* Node.js
-* Express.js
-* FastAPI
+### 5. College Assistant Chatbot
+[Repository](https://github.com/AkashVH5500/ai-college-chatbot)
 
-### Database
+A FastAPI and Streamlit application that retrieves relevant college FAQs with embeddings and uses Gemini to compose responses from the retrieved context.
 
-* MongoDB
-* MySQL
-* PostgreSQL
+## Research and Leadership
 
-### Tools
+- **Breast Cancer Detection with SHAP Explainability:** team lead for a four-member undergraduate project involving machine-learning classification and model explainability; the associated research paper has been published.
+- **NSS Volunteer, VIT Bengaluru:** community outreach and plantation activities.
+- **Campus 2 Community Fellow, Yuvaka Sangha:** completed a 100-hour fellowship.
 
-* Git
-* GitHub
-* Docker
-* Postman
-* Android Studio
-* VS Code
+## Professional Development
 
----
+- Anthropic — Model Context Protocol: Advanced Topics
+- Google / Kaggle — 5-Day AI Agents Intensive Course
+- NPTEL — Data Science for Engineers
+- Google — Automate Cybersecurity Tasks with Python
+- Skyscanner — Software Engineering Job Simulation (Forage)
 
-# 🤖 AI / ML Interests
+## Problem Solving
 
-* Artificial Intelligence
-* Machine Learning
-* Generative AI
-* Agentic AI
-* Large Language Models (LLMs)
-* Natural Language Processing
-* Deep Learning
-* Retrieval-Augmented Generation (RAG)
+[LeetCode](https://leetcode.com/) · 100+ problems solved
 
 ---
 
-# 🚀 Featured Projects
-
-## 🎓 College Assistant Chatbot
-
-AI-powered chatbot built using **FastAPI**, **Streamlit**, and **LLMs** for answering college-related queries.
-
-🔗 https://github.com/AkashVH5500/College-Assistant-Chatbot
-
----
-
-## 🤖 AI Personal Learning Assistant
-
-Multi-Agent AI learning platform developed using **Google ADK** and **Vertex AI** as part of the Google AI Agents Intensive Course.
-
-🔗 https://github.com/AkashVH5500/ai-learning-assistant
-
----
-
-## 🛡️ Malware Detection Platform
-
-Distributed malware detection system using **FastAPI**, **Docker**, **RabbitMQ**, **PostgreSQL**, and Machine Learning.
-
-🚧 Currently Under Development
-
----
-
-## 🔍 Hoen Scanner
-
-Python-based malware scanning microservice integrated with the Malware Detection Platform.
-
-🔗 https://github.com/AkashVH5500/hoen-scanner
-
----
-
-## ✈️ FlightApp
-
-Android application developed using **Kotlin** and **Android Studio**.
-
-🔗 https://github.com/AkashVH5500/FlightApp
-
----
-
-## 💼 Portfolio Website
-
-Responsive portfolio website showcasing projects, technical skills, and certifications.
-
-🚧 Under Development
-
----
-
-# 🏆 Certifications
-
-✅ Google AI Agents Intensive Course
-
-✅ Kaggle AI Agents Capstone
-
-✅ IBM AI Fundamentals
-
-✅ IBM SkillsBuild Customer Engagement
-
-✅ HackerRank Python (Basic)
-
-✅ HackerRank R (Basic)
-
-✅ Google Cybersecurity
-
----
-
-# 📈 GitHub Analytics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AkashVH5500\&show_icons=true\&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashVH5500\&layout=compact\&theme=tokyonight)
-
----
-
-# 🔥 GitHub Streak
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkashVH5500\&theme=tokyonight)
-
----
-
-# 📊 Contribution Graph
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkashVH5500\&theme=github-dark)
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
----
-
-# 🎯 Current Focus
-
-### 📚 Learning
-
-* Deep Learning
-* Large Language Models (LLMs)
-* Agentic AI & Multi-Agent Systems
-* System Design
-* Cloud Computing
-
-### 🚀 Building
-
-* Malware Detection Platform
-* Personal Portfolio Website
-* Full Stack Web Applications
-* AI-Powered Developer Tools
-
-### 🔬 Exploring
-
-* Retrieval-Augmented Generation (RAG)
-* Google ADK & AI Agent Frameworks
-* Docker & Distributed Systems
-* Cloud-Native Development
-* AI for Cybersecurity
-
----
-
-# 🌐 Connect
-
-📧 **Email:** [akashvhiremath@gmail.com](mailto:akashvhiremath@gmail.com)
-
-💼 **LinkedIn:**
-https://www.linkedin.com/in/akash-v-hiremath-b81996296/
-
-💻 **GitHub:**
-https://github.com/AkashVH5500
-
----
-
-<div align="center">
-
-### ⭐ Always Learning • Always Building • Always Improving
-
-</div>
+I am interested in software engineering opportunities where I can contribute to backend systems, practical AI applications, data-intensive workflows and reliable software.
